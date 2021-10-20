@@ -2,4 +2,4 @@
 host=review.calyxos.org
 port=29418
 project=CalyxOS/gerrit_test
-defaultbranch=master
+defaultbranch=main
